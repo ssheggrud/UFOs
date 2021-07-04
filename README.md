@@ -2,7 +2,7 @@
 Create a dynamic table on a webpage to explore UFO data using CSS, HTML, JavaScript, and Bootstrap
 
 # Project Overview
-In this assignment, we are helping Dana to improve her dynamic table so that users can perform a more in depth search. 
+In this assignment, we are helping Dana present data on UFO sightings to others via a dynamic table on a website. She would like us to help her improve her dynamic table so that users can perform a more in-depth search.
 
 # Project Results:
 ## Using the Website:
